@@ -1,4 +1,4 @@
-- 👋 Hi, Yigit
+- 👋 Hi, I am Yigit
 - 👀 I’m interested in FPGAs, HW design and some small tools
 - 👾 I mostly use Verilog and C++, sometimes Python and a little bit Bash
 - 📫 How to reach me yigit.suoglu@proton.me or suoglu@icloud.com
