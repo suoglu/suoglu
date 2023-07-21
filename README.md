@@ -2,4 +2,6 @@
 - 👀 I’m interested in FPGAs, HW design and some small tools
 - 👾 I mostly use Verilog and C++, sometimes Python and a little bit Bash
 - 📫 How to reach me: yigit.suoglu@proton.me or suoglu@icloud.com
+   - If you have a problem with your homework, please ask it to your instructor.
+   - If there is an issue with one of the repositories or you want a feature to be added, please use issues.
 - 🌐 Also check out [suoglu.gitlab.io](https://suoglu.gitlab.io) or [suoglu.github.io](https://suoglu.github.io)
