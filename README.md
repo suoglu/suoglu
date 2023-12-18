@@ -1,7 +1,11 @@
 - 👋 Hi, I am Yigit
-- 👀 I’m interested in FPGAs, HW design and some small tools
+- 👀 I’m interested in RTL design, embedded programming and scripting
 - 👾 I mostly use Verilog and C++, sometimes Python and a little bit Bash
 - 📫 How to reach me: yigit.suoglu@proton.me or suoglu@icloud.com
-   - If you have a problem with your homework, please ask it to your instructor.
-   - If there is an issue with one of the repositories or you want a feature to be added, please use issues.
+   - If you have a problem with your homework, please ask it to your instructor
+      - I don't really have time to explain stuff to strangers and it is kind a their job
+   - If there is an issue with one of the repositories or you want a feature to be added, please use issues
+      - I think it is easier to keep track and more transparent
+      - Or feel free to implement it yourself; much better as more people contribute!
+   - Also open to collaborations in interesting open source projects 
 - 🌐 Also check out [suoglu.github.io](https://suoglu.github.io)
